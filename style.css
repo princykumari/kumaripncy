@@ -1,0 +1,35 @@
+
+    .rectangle1{
+          
+      height :241px;
+      width :500px;
+      background-color: #1f2122;
+      border: 10px solid gray;
+      padding: 10px;
+      margin:auto;
+
+    }
+    .rectangle2{
+      height :106px;
+      width :247px;
+      background-color: #23798e;
+      margin:auto;
+	  text-align:center;
+	  position: relative;
+	  top:10%;
+	  color: cyan;
+    }
+
+    
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+  
